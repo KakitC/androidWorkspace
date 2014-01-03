@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quadratic Solver</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Quadratic Equation Solver</string>
+    <string name="instructions">Enter quadratic equation coefficients below:</string>
+    <string name="x2_hint">A</string>
+    <string name="x_hint">B</string>
+    <string name="const_hint">C</string>
+    <string name="timesx2plus">*x^2 + </string>
+    <string name="timesxplus">*x + </string>
+    <string name="solve">Solve</string>
+    
+    <string name="testsolution">x1 = ___\nx2 = ___</string>
+
+</resources>
